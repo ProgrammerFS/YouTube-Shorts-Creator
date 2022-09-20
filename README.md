@@ -7,6 +7,6 @@ To run this module you will need two things :
 1) The client id, client secret and user agent of yourreddit app which can be created here : 
 2) The client_secret.json from the youtube api. 
 
-To run the module Simple paste your credentials in the combining.py and run the main.py file.
+To run the module simply paste your reddit credentials(client-id, client-secret, user-agent) in the combining.py and run the main.py file.
 
-#Note : You will need to verify this app once but after that you don't need to do anything just run the combinig.py file and watch the magic unfold!
+#Note : The channel has to be created before running this file. You will need to verify this app once (Please sign-in with the account on which you want to upload your videos on) but after that you don't need to do anything just run the main.py file and watch the magic unfold!
