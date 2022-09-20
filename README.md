@@ -1,4 +1,4 @@
-# YouTube---Reddit-Video-Creator
+# YouTube-Shorts-Creator
 Through this project you can automate making videos from reddit and uploading them on YouTube. Currently, it only supports images but we hope to bring the ability to combine videos as well in the future.
 
 You will need to create a YouTube Channel and also enable the Youtube Data api, which you can create by following this documentation : https://developers.google.com/youtube/v3/getting-started
